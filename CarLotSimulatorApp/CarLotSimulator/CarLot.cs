@@ -10,6 +10,6 @@ namespace CarLotSimulator
     {
         public static int numberOfCars;
 
-        public List<Car> ParkingLot { get; set; } = new List<Car>();
+        public List<Car> Cars { get; set; } = new List<Car>();
     }
 }
